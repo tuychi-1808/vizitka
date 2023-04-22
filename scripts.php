@@ -1,0 +1,13 @@
+<script src="assets/js/vendor/jquery.min.js"></script>
+<script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
+<script src="assets/js/vendor/bootstrap.min.js"></script>
+<script src="assets/js/vendor/popper.min.js"></script>
+<script src="assets/js/vendor/jquery-mean-menu.min.js"></script>
+<script src="assets/js/vendor/owl.carousel.min.js"></script>
+<script src="assets/js/vendor/isotope.pkgd.min.js"></script>
+<script src="assets/js/countdown.js"></script>
+<script src="assets/js/vendor/jquery.nice-number.js"></script>
+<script src="assets/js/vendor/slick.min.js"></script>
+<script src="assets/js/vendor/jquery.magnific-popup.min.js"></script>
+<script src="assets/js/vendor/wow-1.3.0.min.js"></script>
+<script src="assets/js/main.js"></script>
