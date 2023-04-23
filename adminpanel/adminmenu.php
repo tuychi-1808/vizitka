@@ -25,8 +25,7 @@
                     <span class="menu-arrow arrow_carrot-right"></span>
                 </a>
                 <ul class="sub">
-                    <li><a class="" href="">Категории</a></li>
-                    <li><a class="" href="">Подкатегории</a></li>
+                    <li><a class="" href="product_sample.php">Зоголовки</a></li>
                 </ul>
             </li>
             <li class="sub-menu">

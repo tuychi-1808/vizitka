@@ -39,19 +39,18 @@ require ('development_mode_control.php') ;
      <?php include 'simple_area.php'?>
     <!-- =================Product-sample Area Ends================= -->
     
-    <!-- =================Subscribe Area Starts================= -->
+    <!-- =================Contacte Area Starts================= -->
 
-
+        <?php include 'contact.php'?>
     
-    <!-- =================Subscribe Area Ends================= -->
+    <!-- =================Contact Area Ends================= -->
     <!-- =================Product Area Starts================= -->
 
-      <?php include 'all_products.php'?>
     
     <!-- =================Product Area Ends================= -->
     <!-- =================man-collection Area Starts================= -->
     
-   <?php include 'collection_area.php'?>
+
     <!-- =================man-collection Area Ends================= -->
     
     <!-- =================Instagram Area Starts================= -->
