@@ -1,11 +1,14 @@
 <?php
 header('Content-Type: text:html; charset=utf-8');
 date_default_timezone_set('Europe/Moscow');
-/*if (!isset($_SESSION['session_username']))
+session_start();
+
+if (!isset($_SESSION['session_username']))
 {
     header('location:login.php');
-}*/
+}
 require ('../development_mode_control.php');
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -38,24 +41,18 @@ require ('../development_mode_control.php');
                             <span class="profile-ava">
                                 <img alt="" src="img/avatar1_small.jpg">
                             </span>
-                        <span class="username"><!--$_SESSION['session_id']-->></span>
+                        <span class="username"><?php echo $_SESSION['session_id'];?></span>
                         <b class="caret"></b>
                     </a>
                     <ul class="dropdown-menu extended logout">
                         <div class="log-arrow-up"></div>
-                        <li class="eborder-top">
-                            <a href="#"><i class="icon_profile"></i> Изменить пароль</a>
-                        </li>
-
                         <li>
                             <a href="logout.php"><i class="icon_key_alt"></i> Выйти</a>
                         </li>
-
                     </ul>
                 </li>
                 <!-- user login dropdown end -->
-            </ul>
-            <!-- notificatoin dropdown end-->
+            </ul> notificatoin dropdown end-->
         </div>
     </header>
     <!--header end-->

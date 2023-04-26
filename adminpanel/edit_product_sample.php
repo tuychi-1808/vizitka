@@ -1,11 +1,15 @@
 <?php
 header('Content-Type: text:html; charset=utf-8');
 date_default_timezone_set('Europe/Moscow');
-/*if (!isset($_SESSION['session_username']))
+session_start();
+
+if (!isset($_SESSION['session_username']))
 {
     header('location:login.php');
-}*/
+}
 require ('../development_mode_control.php');
+
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -30,7 +34,7 @@ require ('../development_mode_control.php');
 
 
 
-    </header>
+    </header>         т
     <!--header end-->
 
     <!--sidebar start-->

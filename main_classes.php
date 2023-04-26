@@ -1,20 +1,20 @@
 <?php
 function userLevel () {
-	global $conn ; 
-    $q = $_SESSION['session_username'] ; 
-	$isAdmin = $conn->prepare('SELECT user_level FROM blog_usertbl WHERE username = :q');
+    global $conn ;
+    $q = $_SESSION['session_username'] ;
+    $isAdmin = $conn->prepare('SELECT user_level FROM vizitka_usertbl WHERE username = :q');
     $isAdmin->execute(array('q' => $q));
-    $adminResult = $isAdmin->fetchAll(); 
-	foreach ($adminResult as $row):
-	$userlevel = $row["user_level"];
-    endforeach ; 
-    return $userlevel ; 
-	}	
+    $adminResult = $isAdmin->fetchAll();
+    foreach ($adminResult as $row):
+        $userlevel = $row["user_level"];
+    endforeach ;
+    return $userlevel ;
+}
 
-	function getUserId () {
+function getUserId () {
 		global $conn ; 
 		$q = $_SESSION['session_username'] ; 
-		$getUserId = $conn->prepare('SELECT id FROM usertbl WHERE username = :q');
+		$getUserId = $conn->prepare('SELECT id FROM vizitka_usertbl WHERE username = :q');
 		$getUserId->execute(array('q' => $q));
 		$userResult = $getUserId->fetchAll(); 
 		foreach ($userResult as $row):
