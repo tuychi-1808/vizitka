@@ -1,0 +1,83 @@
+Time : 17:48:42
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:48:41
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:48:41
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:48:41
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:48:40
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:47:38
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:47:38
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:47:38
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:47:37
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:47:37
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:47:37
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:47:36
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:33
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:33
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:32
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:32
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:32
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:31
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:21
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:21
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:21
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:21
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:21
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:20
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:20
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:20
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:10
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'
+
+Time : 17:46:05
+SQLSTATE[HY000] [1049] Unknown database 'vizitka'

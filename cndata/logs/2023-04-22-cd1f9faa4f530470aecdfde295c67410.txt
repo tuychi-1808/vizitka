@@ -1,0 +1,71 @@
+Time : 15:32:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'title' cannot be null
+Raw SQL : INSERT INTO product_sample (id, location, title, text ) VALUES (?,?,?,?)
+
+Time : 13:27:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM
+
+Time : 13:26:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM
+
+Time : 13:26:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM
+
+Time : 13:26:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM
+
+Time : 13:26:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM
+
+Time : 13:26:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM
+
+Time : 13:26:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM
+
+Time : 13:26:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM
+
+Time : 13:23:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM
+
+Time : 13:21:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM
+
+Time : 13:21:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM
+
+Time : 11:02:50
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text' in 'field list'
+Raw SQL : UPDATE product_sample SET location = ?, title = ?, text = ? WHERE id = ?
+
+Time : 11:01:58
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text' in 'field list'
+Raw SQL : UPDATE product_sample SET location = ?, title = ?, text = ? WHERE id = ?
+
+Time : 11:01:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text' in 'field list'
+Raw SQL : UPDATE product_sample SET location = ?, title = ?, text = ? WHERE id = ?
+
+Time : 11:00:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text' in 'field list'
+Raw SQL : UPDATE product_sample SET location = ?, title = ?, text = ? WHERE id = ?
+
+Time : 11:00:32
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text' in 'field list'
+Raw SQL : UPDATE product_sample SET location = ?, title = ?, text = ? WHERE id = ?
+
+Time : 11:00:02
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'text' in 'field list'
+Raw SQL : UPDATE product_sample SET location = ?, title = ?, text = ? WHERE id = ?

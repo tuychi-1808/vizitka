@@ -1,0 +1,11 @@
+Time : 10:10:51
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vizitka.user_vizits' doesn't exist
+Raw SQL : DELETE FROM user_vizits WHERE id = ?
+
+Time : 10:10:32
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vizitka.user_vizits' doesn't exist
+Raw SQL : DELETE FROM user_vizits WHERE id = ?
+
+Time : 10:08:28
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vizitka.user_vizits' doesn't exist
+Raw SQL : SELECT * FROM user_vizits
